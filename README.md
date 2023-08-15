@@ -1,4 +1,4 @@
-# gsr-mpp-biz-batch-external-data-prd
+# how to use public api
 
 ## Getting started
 해당 프로젝트는 가상 환경을 사용하고 있으므로 초기 설정이 필요합니다.   
