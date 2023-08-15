@@ -1,0 +1,101 @@
+[2023-08-11 12:55:00][INFO|get_data.py-property:18] >> 부동산 정보 적재 시작
+[2023-08-11 12:56:13][INFO|get_data.py-property:18] >> 부동산 정보 적재 시작
+[2023-08-11 12:57:34][INFO|get_data.py-property:18] >> 부동산 정보 적재 시작
+[2023-08-11 12:58:51][INFO|get_data.py-property:18] >> 부동산 정보 적재 시작
+[2023-08-11 13:10:15][INFO|get_data.py-property:18] >> 부동산 정보 적재 시작
+[2023-08-11 13:11:59][WARNING|get_data.py-property:78] >> 정보 적재 실패
+[2023-08-11 13:17:26][INFO|get_data.py-property:20] >> 부동산 정보 적재 시작
+[2023-08-11 13:17:58][WARNING|get_data.py-property:84] >> 공공API 에러 발생: 'module' object is not callable
+[2023-08-11 13:23:54][INFO|get_data.py-property:20] >> 부동산 정보 적재 시작
+[2023-08-11 13:24:24][WARNING|get_data.py-property:84] >> 공공API 에러 발생: 'module' object is not callable
+[2023-08-11 13:33:43][INFO|get_data.py-property:20] >> 부동산 정보 적재 시작
+[2023-08-11 13:34:14][WARNING|get_data.py-property:84] >> 공공API 에러 발생: 'module' object is not callable
+[2023-08-11 13:35:17][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 13:56:39][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 13:58:40][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 13:58:40][WARNING|get_data.py-property:83] >> 공공API 에러 발생: name 'total_count' is not defined
+[2023-08-11 13:58:57][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 13:58:57][WARNING|get_data.py-property:83] >> 공공API 에러 발생: Expecting value: line 1 column 1 (char 0)
+[2023-08-11 14:03:48][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:03:48][WARNING|get_data.py-property:83] >> 공공API 에러 발생: Expecting value: line 1 column 1 (char 0)
+[2023-08-11 14:04:29][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:04:29][WARNING|get_data.py-property:83] >> 공공API 에러 발생: Expecting value: line 1 column 1 (char 0)
+[2023-08-11 14:06:17][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:12:04][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:14:19][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:14:23][WARNING|get_data.py-property:80] >> 정보 적재 실패
+[2023-08-11 14:20:40][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:21:14][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:21:24][WARNING|get_data.py-property:83] >> 공공API 에러 발생: Expecting value: line 1 column 1 (char 0)
+[2023-08-11 14:33:15][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:33:44][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:34:38][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:40:27][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:41:01][WARNING|get_data.py-property:87] >> 정보 적재 실패
+[2023-08-11 14:41:15][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:47:34][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:47:42][WARNING|get_data.py-property:87] >> 정보 적재 실패
+[2023-08-11 14:48:03][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 14:50:13][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:08:04][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:14:59][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:15:28][WARNING|get_data.py-property:86] >> 정보 적재 실패
+[2023-08-11 15:20:45][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:20:49][WARNING|get_data.py-property:86] >> 정보 적재 실패
+[2023-08-11 15:32:08][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:33:51][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:33:55][WARNING|get_data.py-property:92] >> 정보 적재 실패
+[2023-08-11 15:34:15][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:34:20][WARNING|get_data.py-property:92] >> 정보 적재 실패
+[2023-08-11 15:34:35][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:35:15][WARNING|get_data.py-property:92] >> 정보 적재 실패
+[2023-08-11 15:37:57][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:43:21][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:43:38][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:43:50][WARNING|get_data.py-property:93] >> 정보 적재 실패
+[2023-08-11 15:47:35][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:47:42][WARNING|get_data.py-property:97] >> 공공API 에러 발생: invalid literal for int() with base 10: ''
+[2023-08-11 15:48:00][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:48:05][WARNING|get_data.py-property:97] >> 공공API 에러 발생: invalid literal for int() with base 10: ''
+[2023-08-11 15:48:16][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:49:18][WARNING|get_data.py-property:97] >> 공공API 에러 발생: invalid literal for int() with base 10: ''
+[2023-08-11 15:49:44][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 15:50:07][WARNING|get_data.py-property:97] >> 공공API 에러 발생: invalid literal for int() with base 10: ''
+[2023-08-11 15:53:45][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:02:55][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:03:29][WARNING|get_data.py-property:97] >> 공공API 에러 발생: could not convert string to float: ''
+[2023-08-11 16:04:25][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:04:28][WARNING|get_data.py-property:97] >> 공공API 에러 발생: could not convert string to float: ''
+[2023-08-11 16:04:51][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:05:27][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:07:53][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:08:41][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:09:00][WARNING|get_data.py-property:97] >> 공공API 에러 발생: could not convert string to float: ''
+[2023-08-11 16:10:56][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:13:26][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:15:23][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:16:13][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:18:46][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:26:35][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:27:44][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:39:43][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:44:02][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:44:25][WARNING|get_data.py-property:93] >> 정보 적재 실패
+[2023-08-11 16:45:36][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:47:12][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:48:08][WARNING|get_data.py-property:92] >> 정보 적재 실패
+[2023-08-11 16:48:32][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:51:54][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 16:52:26][WARNING|get_data.py-property:92] >> 정보 적재 실패
+[2023-08-11 16:52:45][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 17:19:58][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 17:57:47][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 17:57:51][WARNING|get_data.py-property:97] >> 공공API 에러 발생: name 'key' is not defined
+[2023-08-11 17:58:10][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 19:54:42][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 20:06:16][WARNING|get_data.py-property:97] >> 공공API 에러 발생: ('Connection broken: IncompleteRead(5500 bytes read, 4740 more expected)', IncompleteRead(5500 bytes read, 4740 more expected))
+[2023-08-11 21:15:27][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 21:15:48][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 21:16:15][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 21:48:47][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
+[2023-08-11 22:09:32][INFO|get_data.py-property:19] >> 부동산 정보 적재 시작
