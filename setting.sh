@@ -16,8 +16,8 @@ else
     #echo "$VENV_DIR does not exist."
 
     # 가상 환경 라이브러리 설치
-    #pip install virtualenv
-    pip3 install python3-virtualenv
+    pip install virtualenv
+    # pip3 install python3-virtualenv
     
     # 가상 환경 생성 및 실행
     echo "start to set the environment!"
