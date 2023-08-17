@@ -6,7 +6,7 @@ echo "- job : start the program"
 
 
 DIR="$( cd "$( dirname "$0" )" && pwd )"
-VENV_DIR="${DIR}/ venv"
+VENV_DIR="${DIR}/.venv"
 MAIN_DIR="${DIR}/app/main.py"
 
 if [ -e "$MAIN_DIR" ]; then
