@@ -4,7 +4,7 @@ import os
 import sys
 from dotenv import load_dotenv
 
-# 환경변수 셋팅
+# 환경변수 셋팅 -> 개발기/운영기 구분하는 경우에 사용 할 것 
 # arguments = sys.argv
 # if arguments[1].lower() == "-d" or arguments[1].lower() == "-dev":
 #     ENV_PATH = '/.env.dev'  # 개발
