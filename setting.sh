@@ -6,7 +6,7 @@ echo "- job : init setting"
 
 
 DIR="$( cd "$( dirname "$0" )" && pwd )"
-VENV_DIR="${DIR}/.venv"
+VENV_DIR="${DIR}/ venv"
 REQUIREMENT_DIR="${DIR}/requirement.txt"
 
 if [ -e "$VENV_DIR" ]; then
@@ -21,7 +21,7 @@ else
     
     # 가상 환경 생성 및 실행
     echo "start to set the environment!"
-    echo "create .venv"
+    echo "create  venv"
     virtualenv $VENV_DIR
     
     # 프로그램에 필요한 라이브러리 설치
