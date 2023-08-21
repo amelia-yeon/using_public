@@ -20,9 +20,9 @@ LoggerFactory.create_logger()
 # @sched.scheduled_job('cron', hour='12', minute='30')
 
 def public_api():
-    # data = ctrl_getpublic().property()
-    data = '1234'
-    print(data)
+    data = ctrl_getpublic().property()
+    # data = '1234'
+    # print(data)
     return {'data' : data}
 
 public_api()
