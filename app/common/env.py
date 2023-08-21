@@ -14,8 +14,9 @@ from dotenv import load_dotenv
 #     ENV_PATH = '/.env.product'  # 개발
 #     print(">>>>>>>>>>>>>운영 모드>>>>>>>>>>>>>")
 
+ENV_PATH = '/.env'
 #dev/env에 따른 KEY load
-load_dotenv(dotenv_path=os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__)))) ) #+ ENV_PATH)
+load_dotenv(dotenv_path=os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__)))) + ENV_PATH)
 
 #ENV 환경 설정
 ENV = str(os.environ.get("ENV"))
